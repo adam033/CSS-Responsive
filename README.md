@@ -54,4 +54,4 @@ Cara membuat header dan footer dengan menambahkan logo gambar sesuai selera dan 
 Cara membut formulir registrasi pendaftaran dengan data berupa tanggal lahir dan nama .
 
 ________________________________________________________________________________
-THANK YOU Semoga Bermanfaat :D
+**THANK YOU Semoga Bermanfaat :D**
