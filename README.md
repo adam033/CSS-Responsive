@@ -29,5 +29,18 @@ ________________________________________________________________________________
 3. Saat ini sudah banyak website yang menggunakan CSS. Hal ini dikarenakan CSS adalah salah satu bahasa markup yang diwajibkan ada.
 ______________________________________________________________________________________________
 ## Latihan Project CSS
-###Latihan 1
-![Alt text]
+
+### Latihan 1
+![Alt Text](https://github.com/adam033/CSS-Responsive/blob/master/Screenshot%20(53).png)
+Mempelajari tentang cara membuat halaman web berubah warna setiap ukuran desktop kita di minimize atau di maximize ataupun diperbesar/diperkecil
+
+### Latihan 2
+![Alt Text](https://github.com/adam033/CSS-Responsive/blob/master/Screenshot%20(54).png)
+Mempelajari tentang cara membuat sebuah grid dengan berbagai jumlah warna dan ukuran , dan juga membuat grid itu semua berubah bentuk dan merespon terhadap jendela windows.
+
+### Latihan 3
+![Alt Text](https://github.com/adam033/CSS-Responsive/blob/master/Screenshot%20(55).png)
+Cara membuat text box dengan posisi dibagi tiga secara bersebelahan dan apabila jendela windows di minimize atau diubah ukuran akan mersepon dengan berganti posisi dan berganti warna
+
+### Latihan 4
+![Alt Text](https://github.com/adam033/CSS-Responsive/blob/master/Screenshot%20(56).png)
