@@ -30,27 +30,27 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________
 ## Latihan Project CSS
 ### Latihan 1
-![Alt Text](https://github.com/adam033/CSS-Responsive/blob/master/Screenshot%20(53).png)
+![Alt Text](https://github.com/adam033/CSS-Responsive/blob/master/satu.png)
 Mempelajari tentang cara membuat halaman web berubah warna setiap ukuran desktop kita di minimize atau di maximize ataupun diperbesar/diperkecil
 
 ### Latihan 2
-![Alt Text](https://github.com/adam033/CSS-Responsive/blob/master/Screenshot%20(54).png)
+![Alt Text](https://github.com/adam033/CSS-Responsive/blob/master/dua.png)
 Mempelajari tentang cara membuat sebuah grid dengan berbagai jumlah warna dan ukuran , dan juga membuat grid itu semua berubah bentuk dan merespon terhadap jendela windows.
 
 ### Latihan 3
-![Alt Text](https://github.com/adam033/CSS-Responsive/blob/master/Screenshot%20(55).png)
+![Alt Text](https://github.com/adam033/CSS-Responsive/blob/master/tiga.png)
 Cara membuat text box dengan posisi dibagi tiga secara bersebelahan dan apabila jendela windows di minimize atau diubah ukuran akan mersepon dengan berganti posisi dan berganti warna
 
 ### Latihan 4
-![Alt Text](https://github.com/adam033/CSS-Responsive/blob/master/Screenshot%20(57).png)
+![Alt Text](https://github.com/adam033/CSS-Responsive/blob/master/empat.png)
 Cara menampilkan foto dengan box bundar dan responsive apabila diubah ukuran jendela windows akan berubah posisi dan ukuran.
 
 ### Latihan 5
-![Alt Text](https://github.com/adam033/CSS-Responsive/blob/master/Screenshot%20(58).png)
+![Alt Text](https://github.com/adam033/CSS-Responsive/blob/master/lima.png)
 Cara membuat header dan footer dengan menambahkan logo gambar sesuai selera dan membuat side bar dengan pilihan menu serta menambahkan copyright dari halaman website kita.
 
 ### Latihan 6
-![Alt Text](https://github.com/adam033/CSS-Responsive/blob/master/Screenshot%20(60).png)
+![Alt Text](https://github.com/adam033/CSS-Responsive/blob/master/enam.png)
 Cara membut formulir registrasi pendaftaran dengan data berupa tanggal lahir dan nama .
 
 ________________________________________________________________________________
