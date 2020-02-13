@@ -27,3 +27,7 @@ ________________________________________________________________________________
 1. CSS dibuat untuk dapat bekerja bersama dengan bahasa markup seperti HTML. Biasanya CSS digunakan untuk mengatur tampilan halaman.
 2. Ada tiga style di CSS, dan untuk menerapkan CSS di banyak halaman pada waktu bersamaan, gunakan External style.
 3. Saat ini sudah banyak website yang menggunakan CSS. Hal ini dikarenakan CSS adalah salah satu bahasa markup yang diwajibkan ada.
+______________________________________________________________________________________________
+## Latihan Project CSS
+###Latihan 1
+![Alt text]
